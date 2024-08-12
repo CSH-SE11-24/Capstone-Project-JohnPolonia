@@ -1,0 +1,1 @@
+ document.getElementById("mySeconDiv").style.margin = "27px";
